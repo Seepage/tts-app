@@ -2,7 +2,7 @@
 
 A small web app that turns text into spoken audio. Type or paste text, choose a language, and listen instantly or download the result as an MP3.
 
-![Screenshot of the app](screenshot.png)
+![Screenshot of the app](screenshot.png.jpeg)
 
 ## Features
 
